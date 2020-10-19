@@ -17,5 +17,5 @@ Model Creation Steps:
 Files uploaded
 1) NODE-RED json file added in github
 2) Data set added
-3) Video for exectuion is added
+3) Video of exectuion is added
 4) Project Snapshots are added
